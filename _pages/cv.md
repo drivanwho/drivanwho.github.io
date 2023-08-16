@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Shandong(China🇨🇳_flag:), Shandong University, 2021
-* M.S. in Suwon(Korea🇰🇷_flag:), Sungkyunkwan University, 2023
+* B.S. in Shandong(China), Shandong University, 2021
+* M.S. in Suwon(Korea), Sungkyunkwan University, 2023
 * Ph.D in ?
 
 Work experience
