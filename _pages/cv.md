@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Biography"
+title: "Personal Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Shandong(China), Shandong University, 2021
-* M.S. in Suwon(Korea), Sungkyunkwan University, 2023
-* Ph.D in ?
+* B.S. in Shandong(China), Shandong University, 2021.09
+* M.S. in Suwon(Korea), Sungkyunkwan University, 2023.08
+* Ph.D in _____(), _______ University, 20xx.xx
 
 Work experience
 ======
@@ -29,12 +29,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ALD, Sputter, Evaporation,RCA Process 
+* Computer 
+  * Python, Matlab, C++, Markdown, LaTeX
+  * TCAD, Comsol, Padre, Soildworks, Lighttools
+* English(Advanced), Korean(Medium), Chinese(Native)
 
 Publications
 ======
