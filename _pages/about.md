@@ -44,7 +44,7 @@ I received my Bachelor degree in **Applied Physics from Shandong University**(Ch
 2. Новые материалы для прогнозирования высокопроизводительных вычислений
 3. Ферроэлектрический материал
 
-Я получил степень бакалавра по **прикладной физике в Шаньдунском университете** (материковый Китай) и степень магистра по **электрической и компьютерной инженерии в Университете Сунгкьюнкван** (Южная Корея) под руководством [И Цзюнь Син] (http://joy.skku.ac.kr/main/page.html?pid=8).
+Я получил степень бакалавра по **прикладной физике в Шаньдунском университете** (материковый Китай) и степень магистра по **электрической и компьютерной инженерии в Университете Сунгкьюнкван** (Южная Корея) под руководством [И Цзюнь Син](http://joy.skku.ac.kr/main/page.html?pid=8).
 
 
 ======
@@ -52,4 +52,5 @@ I received my Bachelor degree in **Applied Physics from Shandong University**(Ch
 For more info(更多信息)
 ------
 想要联系我合作交流的人可以添加我的微信：phdmonkey
+
 Anyone who wants to contact me for co-operation and exchange of ideas can add my Instagram: drivanhu
