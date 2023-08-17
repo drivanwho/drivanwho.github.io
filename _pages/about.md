@@ -16,6 +16,8 @@ redirect_from:
 
 我本科就读于中国**山东大学应用物理系**，在[李准信教授](http://joy.skku.ac.kr/main/page.html?pid=8)的指导下获得了韩国**成均馆大学电子与计算机工程**的工学硕士学位。
 
+我的爱好是：俄罗斯文化，手风琴，文学，社会边缘群体研究，跳舞
+
 English Introduction
 ------
 Hello, my name is **Hu Yifan**! Born in [Zongyang County](https://baike.baidu.com/item/%E6%9E%9E%E9%98%B3%E5%8E%BF/434983), Anqing City, Anhui Province, Mainland China
@@ -25,6 +27,8 @@ My research interests include:
 3. Ferroelectric Material
 
 I received my Bachelor degree in **Applied Physics from Shandong University**(China mainland), and Master degree in **Electrical and Computer Engineering from Sungkyunkwan University**(South Korea) under the supervision of [Prof. Junsin Yi](http://joy.skku.ac.kr/main/page.html?pid=8).
+
+My hobbies are: Russian culture, accordion, literature, study of socially marginalised groups, dancing.
 
 한국어 소개
 ------
@@ -36,6 +40,8 @@ I received my Bachelor degree in **Applied Physics from Shandong University**(Ch
 
 중국 산동대학교(중국)에서 응용물리학 학사 학위를, 성균관대학교(한국)에서 [이준신 교수](http://joy.skku.ac.kr/main/page.html?pid=8) 지도하에 공학 석사 학위를 받았습니다.
 
+취미는 러시아 문화, 아코디언, 문학, 소외된 사회 집단에 대한 연구, 춤입니다.
+
 Введение в русский язык
 ------
 Здравствуйте, меня зовут **Ху Ифань**! Родился в [уезде Цзунъян](https://baike.baidu.com/item/%E6%9E%9E%E9%98%B3%E5%8E%BF/434983), город Аньцин, провинция Аньхой, материковый Китай.
@@ -46,8 +52,8 @@ I received my Bachelor degree in **Applied Physics from Shandong University**(Ch
 
 Я получил степень бакалавра по **прикладной физике в Шаньдунском университете** (материковый Китай) и степень магистра по **электрической и компьютерной инженерии в Университете Сунгкьюнкван** (Южная Корея) под руководством [И Цзюнь Син](http://joy.skku.ac.kr/main/page.html?pid=8).
 
+Моими увлечениями являются: Русская культура, аккордеон, литература, изучение социально маргинальных групп, танцы.
 
-======
 
 For more info(更多信息)
 ------
