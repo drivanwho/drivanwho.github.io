@@ -36,7 +36,7 @@ I received my Bachelor degree in **Applied Physics from Shandong University**(Ch
 
 중국 산동대학교(중국 본토)에서 응용물리학 학사 학위를, 성균관대학교(한국)에서 [이준신 교수](http://joy.skku.ac.kr/main/page.html?pid=8) 지도하에 공학 석사 학위를 받았습니다.
 
-A data-driven personal website
+
 ======
 
 For more info
