@@ -7,28 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
-permalink: /
-title: "Yifan Hu"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-Hello, my name is **Hu Yifan**! Born in [Zongyang County](https://baike.baidu.com/item/%E6%9E%9E%E9%98%B3%E5%8E%BF/434983), Anqing City, Anhui Province, Mainland China
-My research interests include: 
-1. Oxide Semiconductor Non-Volatile Memory
-2. New materials for high-throughput computing prediction
-3. Ferroelectric Material
-
-I received my Bachelor degree in **Applied Physics from Shandong University**(China mainland), and Master degree in **Electrical and Computer Engineering from Sungkyunkwan University**(South Korea) under the supervision of [Prof. Junsin Yi](http://joy.skku.ac.kr/main/page.html?pid=8).
-
-English Introduction
-------
-My introduction in English goes here.
-
 中文介绍
 ------
 大家好，我叫**胡逸凡**！出生于中国大陆安徽省安庆市枞阳县，我的研究方向是:
@@ -37,6 +15,16 @@ My introduction in English goes here.
 3. 钙钛矿太阳能电池。
 
 我本科就读于中国**山东大学应用物理系**，在[李准信教授](http://joy.skku.ac.kr/main/page.html?pid=8)的指导下获得了韩国**成均馆大学电子与计算机工程**的工学硕士学位。
+
+English Introduction
+------
+Hello, my name is **Hu Yifan**! Born in [Zongyang County](https://baike.baidu.com/item/%E6%9E%9E%E9%98%B3%E5%8E%BF/434983), Anqing City, Anhui Province, Mainland China
+My research interests include: 
+1. Oxide Semiconductor Non-Volatile Memory
+2. New materials for high-throughput computing prediction
+3. Ferroelectric Material
+
+I received my Bachelor degree in **Applied Physics from Shandong University**(China mainland), and Master degree in **Electrical and Computer Engineering from Sungkyunkwan University**(South Korea) under the supervision of [Prof. Junsin Yi](http://joy.skku.ac.kr/main/page.html?pid=8).
 
 한국어 소개
 ------
