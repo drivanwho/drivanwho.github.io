@@ -28,7 +28,7 @@ I received my Bachelor degree in **Applied Physics from Shandong University**(Ch
 
 한국어 소개
 ------
-안녕하세요, 제 이름은 후이판입니다! 중국 본토 안후이성 안칭시 피량현 출생.
+안녕하세요, 제 이름은 후이판입니다! 중국 본토 안후이성 안칭시 [피량현](https://baike.baidu.com/item/%E6%9E%9E%E9%98%B3%E5%8E%BF/434983) 출생.
 저의 연구 관심사는 다음과 같습니다: 
 1. 산화물 반도체 비휘발성 메모리
 2. 고처리량 컴퓨팅 예측을 위한 신소재
@@ -36,9 +36,20 @@ I received my Bachelor degree in **Applied Physics from Shandong University**(Ch
 
 중국 산동대학교(중국 본토)에서 응용물리학 학사 학위를, 성균관대학교(한국)에서 [이준신 교수](http://joy.skku.ac.kr/main/page.html?pid=8) 지도하에 공학 석사 학위를 받았습니다.
 
+Введение в русский язык
+------
+Здравствуйте, меня зовут **Ху Ифань**! Родился в [уезде Цзунъян](https://baike.baidu.com/item/%E6%9E%9E%E9%98%B3%E5%8E%BF/434983), город Аньцин, провинция Аньхой, материковый Китай.
+В сферу моих научных интересов входят: 
+1. Оксидно-полупроводниковая энергонезависимая память
+2. Новые материалы для прогнозирования высокопроизводительных вычислений
+3. Ферроэлектрический материал
+
+Я получил степень бакалавра по **прикладной физике в Шаньдунском университете** (материковый Китай) и степень магистра по **электрической и компьютерной инженерии в Университете Сунгкьюнкван** (Южная Корея) под руководством [И Цзюнь Син] (http://joy.skku.ac.kr/main/page.html?pid=8).
+
 
 ======
 
-For more info
+For more info(更多信息)
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+想要联系我合作交流的人可以添加我的微信：phdmonkey
+Anyone who wants to contact me for co-operation and exchange of ideas can add my Instagram: drivanhu
