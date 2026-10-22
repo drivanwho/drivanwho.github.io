@@ -1024,7 +1024,7 @@
   },
   {
     "slug": "my-friend-kaka",
-    "title": "我的朋友卡卡",
+    "title": "我的一个大棚朋友",
     "date": null,
     "dateLabel": "日期未详",
     "sourceUrl": null,
@@ -1103,6 +1103,7 @@
     "tags": [
       "人物",
       "回忆"
-    ]
+    ],
+    "featuredOrder": 2
   }
 ]
