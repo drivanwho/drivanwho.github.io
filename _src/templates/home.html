@@ -126,10 +126,10 @@
         <p class="interest-line">文学写作 · 枞阳记忆 · 手风琴 · 俄罗斯文化 · 跳舞</p>
         <p class="writing-intro">实验之外，也把生活写下来。<br>这里收着一些故乡、人物和自己的故事。</p>
         <div class="post-toolbar">
-          <label class="search-field" for="post-search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path></svg><input id="post-search" type="search" placeholder="搜索最近文章" aria-label="搜索最近文章"></label>
+          <label class="search-field" for="post-search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path></svg><input id="post-search" type="search" placeholder="搜索精选文章" aria-label="搜索精选文章"></label>
           <select id="post-sort" aria-label="文章时间排序"><option value="newest">由新到旧</option><option value="oldest">由旧到新</option></select>
         </div>
-        <div class="post-status"><span id="post-count" aria-live="polite">最近 {{POST_COUNT}} 篇文章</span><span>点击标题，进入故事 ↗</span></div>
+        <div class="post-status"><span id="post-count" aria-live="polite">精选 {{POST_COUNT}} 篇文章</span><span>置顶推荐与近期文章</span></div>
         <ul id="post-list" class="post-list">{{POST_ROWS}}</ul>
         <p id="empty-state" hidden>没有找到相关文章，试试其他关键词。</p>
         <a class="archive-link" href="/life/"><span>全部文章 ↗</span><small>共 {{POST_TOTAL}} 篇，慢慢读。</small></a>

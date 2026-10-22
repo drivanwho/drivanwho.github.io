@@ -7,6 +7,8 @@
     const update = () => {
       const query = search.value.trim().toLocaleLowerCase();
       const ordered = [...rows].sort((a, b) => {
+        const ap = Number(a.dataset.featured) || Infinity, bp = Number(b.dataset.featured) || Infinity;
+        if (ap !== bp) return ap - bp;
         const ad = a.dataset.date || '', bd = b.dataset.date || '';
         if (!ad || !bd) return ad ? -1 : bd ? 1 : 0;
         return sort.value === 'oldest' ? ad.localeCompare(bd) : bd.localeCompare(ad);

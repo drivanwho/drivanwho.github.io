@@ -105,6 +105,7 @@ svg { width: 16px; height: 16px; vertical-align: middle; }
 .post-row time, .post-date { padding-top: 4px; color: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .post-row h3, .post-title { margin: 0 0 8px; font: 22px/1.55 var(--serif); font-weight: 500; transition: color .18s; }
 .post-row:hover h3, .post-row:hover .post-title { color: var(--accent); }
+.post-pin { display: inline-block; vertical-align: middle; margin-left: 10px; padding: 3px 7px; border-radius: 4px; background: var(--soft-apricot); color: var(--clay); font: 10px/1.3 var(--sans); letter-spacing: .04em; }
 .post-row p, .post-excerpt { margin: 0; font-size: 13px; line-height: 1.9; color: var(--muted); }
 .post-arrow { padding-top: 4px; text-align: right; color: var(--clay); transition: transform .18s; }
 .post-row:hover .post-arrow { transform: translate(3px, -3px); }
